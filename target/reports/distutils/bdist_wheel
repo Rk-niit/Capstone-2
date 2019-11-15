@@ -1,0 +1,89 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.6' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build\lib
+creating build\lib\capstone2
+creating build\lib\capstone2\ecommerce
+copying capstone2\ecommerce\settings.py -> build\lib\capstone2\ecommerce
+copying capstone2\ecommerce\urls.py -> build\lib\capstone2\ecommerce
+copying capstone2\ecommerce\wsgi.py -> build\lib\capstone2\ecommerce
+copying capstone2\ecommerce\__init__.py -> build\lib\capstone2\ecommerce
+creating build\lib\capstone2\shop
+copying capstone2\shop\admin.py -> build\lib\capstone2\shop
+copying capstone2\shop\apps.py -> build\lib\capstone2\shop
+copying capstone2\shop\forms.py -> build\lib\capstone2\shop
+copying capstone2\shop\models.py -> build\lib\capstone2\shop
+copying capstone2\shop\serializer.py -> build\lib\capstone2\shop
+copying capstone2\shop\tests.py -> build\lib\capstone2\shop
+copying capstone2\shop\urls.py -> build\lib\capstone2\shop
+copying capstone2\shop\views.py -> build\lib\capstone2\shop
+copying capstone2\shop\__init__.py -> build\lib\capstone2\shop
+creating build\lib\capstone2\shop\migrations
+copying capstone2\shop\migrations\0001_initial.py -> build\lib\capstone2\shop\migrations
+copying capstone2\shop\migrations\0002_auto_20181214_1203.py -> build\lib\capstone2\shop\migrations
+copying capstone2\shop\migrations\__init__.py -> build\lib\capstone2\shop\migrations
+installing to build\bdist.win-amd64\wheel
+running install
+running install_lib
+creating build\bdist.win-amd64
+creating build\bdist.win-amd64\wheel
+creating build\bdist.win-amd64\wheel\capstone2
+creating build\bdist.win-amd64\wheel\capstone2\ecommerce
+copying build\lib\capstone2\ecommerce\settings.py -> build\bdist.win-amd64\wheel\.\capstone2\ecommerce
+copying build\lib\capstone2\ecommerce\urls.py -> build\bdist.win-amd64\wheel\.\capstone2\ecommerce
+copying build\lib\capstone2\ecommerce\wsgi.py -> build\bdist.win-amd64\wheel\.\capstone2\ecommerce
+copying build\lib\capstone2\ecommerce\__init__.py -> build\bdist.win-amd64\wheel\.\capstone2\ecommerce
+creating build\bdist.win-amd64\wheel\capstone2\shop
+copying build\lib\capstone2\shop\admin.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\apps.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\forms.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+creating build\bdist.win-amd64\wheel\capstone2\shop\migrations
+copying build\lib\capstone2\shop\migrations\0001_initial.py -> build\bdist.win-amd64\wheel\.\capstone2\shop\migrations
+copying build\lib\capstone2\shop\migrations\0002_auto_20181214_1203.py -> build\bdist.win-amd64\wheel\.\capstone2\shop\migrations
+copying build\lib\capstone2\shop\migrations\__init__.py -> build\bdist.win-amd64\wheel\.\capstone2\shop\migrations
+copying build\lib\capstone2\shop\models.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\serializer.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\tests.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\urls.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\views.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+copying build\lib\capstone2\shop\__init__.py -> build\bdist.win-amd64\wheel\.\capstone2\shop
+running install_egg_info
+running egg_info
+writing test.egg-info\PKG-INFO
+writing dependency_links to test.egg-info\dependency_links.txt
+writing namespace_packages to test.egg-info\namespace_packages.txt
+writing top-level names to test.egg-info\top_level.txt
+reading manifest file 'test.egg-info\SOURCES.txt'
+writing manifest file 'test.egg-info\SOURCES.txt'
+Copying test.egg-info to build\bdist.win-amd64\wheel\.\test-1.0.dev0-py3.6.egg-info
+running install_scripts
+creating build\bdist.win-amd64\wheel\test-1.0.dev0.dist-info\WHEEL
+creating 'dist\test-1.0.dev0-py3-none-any.whl' and adding 'build\bdist.win-amd64\wheel' to it
+adding 'capstone2/ecommerce/__init__.py'
+adding 'capstone2/ecommerce/settings.py'
+adding 'capstone2/ecommerce/urls.py'
+adding 'capstone2/ecommerce/wsgi.py'
+adding 'capstone2/shop/__init__.py'
+adding 'capstone2/shop/admin.py'
+adding 'capstone2/shop/apps.py'
+adding 'capstone2/shop/forms.py'
+adding 'capstone2/shop/models.py'
+adding 'capstone2/shop/serializer.py'
+adding 'capstone2/shop/tests.py'
+adding 'capstone2/shop/urls.py'
+adding 'capstone2/shop/views.py'
+adding 'capstone2/shop/migrations/0001_initial.py'
+adding 'capstone2/shop/migrations/0002_auto_20181214_1203.py'
+adding 'capstone2/shop/migrations/__init__.py'
+adding 'test-1.0.dev0.dist-info/METADATA'
+adding 'test-1.0.dev0.dist-info/WHEEL'
+adding 'test-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'test-1.0.dev0.dist-info/top_level.txt'
+adding 'test-1.0.dev0.dist-info/zip-safe'
+adding 'test-1.0.dev0.dist-info/RECORD'
+removing build\bdist.win-amd64\wheel

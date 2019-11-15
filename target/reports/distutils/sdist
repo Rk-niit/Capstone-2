@@ -1,0 +1,55 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.6' does not exist -- can't clean it
+running sdist
+running egg_info
+creating test.egg-info
+writing test.egg-info\PKG-INFO
+writing dependency_links to test.egg-info\dependency_links.txt
+writing namespace_packages to test.egg-info\namespace_packages.txt
+writing top-level names to test.egg-info\top_level.txt
+writing manifest file 'test.egg-info\SOURCES.txt'
+reading manifest file 'test.egg-info\SOURCES.txt'
+writing manifest file 'test.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating test-1.0.dev0
+creating test-1.0.dev0\capstone2
+creating test-1.0.dev0\capstone2\ecommerce
+creating test-1.0.dev0\capstone2\shop
+creating test-1.0.dev0\capstone2\shop\migrations
+creating test-1.0.dev0\test.egg-info
+copying files to test-1.0.dev0...
+copying setup.py -> test-1.0.dev0
+copying capstone2\ecommerce\__init__.py -> test-1.0.dev0\capstone2\ecommerce
+copying capstone2\ecommerce\settings.py -> test-1.0.dev0\capstone2\ecommerce
+copying capstone2\ecommerce\urls.py -> test-1.0.dev0\capstone2\ecommerce
+copying capstone2\ecommerce\wsgi.py -> test-1.0.dev0\capstone2\ecommerce
+copying capstone2\shop\__init__.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\admin.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\apps.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\forms.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\models.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\serializer.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\tests.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\urls.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\views.py -> test-1.0.dev0\capstone2\shop
+copying capstone2\shop\migrations\0001_initial.py -> test-1.0.dev0\capstone2\shop\migrations
+copying capstone2\shop\migrations\0002_auto_20181214_1203.py -> test-1.0.dev0\capstone2\shop\migrations
+copying capstone2\shop\migrations\__init__.py -> test-1.0.dev0\capstone2\shop\migrations
+copying test.egg-info\PKG-INFO -> test-1.0.dev0\test.egg-info
+copying test.egg-info\SOURCES.txt -> test-1.0.dev0\test.egg-info
+copying test.egg-info\dependency_links.txt -> test-1.0.dev0\test.egg-info
+copying test.egg-info\namespace_packages.txt -> test-1.0.dev0\test.egg-info
+copying test.egg-info\top_level.txt -> test-1.0.dev0\test.egg-info
+copying test.egg-info\zip-safe -> test-1.0.dev0\test.egg-info
+Writing test-1.0.dev0\setup.cfg
+creating dist
+Creating tar archive
+removing 'test-1.0.dev0' (and everything under it)
